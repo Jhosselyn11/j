@@ -16,6 +16,7 @@ int main()
      cout<<"asdfghjklmn";
       cout<<"asdfghjklmn";
      cout<<"asdfghjklmn";
+     cout << "<3";
 
     return 0;
 }
