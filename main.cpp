@@ -13,6 +13,7 @@ int main()
     cout << "<3 par cuan";
     cout << ":D";
     cout<<"asdfghjklmn";
+     cout<<"asdfghjklmn";
 
     return 0;
 }
