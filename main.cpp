@@ -1,6 +1,20 @@
 #include <iostream>
 using namespace std;
 
+void pintar()
+{
+    cout << "***";
+    cout << "***";
+    cout << "***";
+    cout << "***";
+    cout << "***";
+    cout << "***";
+    cout << "***";
+    cout << "***";
+    cout << "***";
+    cout << "***";
+    cout << "***";
+}
 int main()
 {
     // eres una perra
@@ -12,7 +26,7 @@ int main()
     cout << "<3";
     cout << "<3 par cuan";
     cout << ":D";
-    cout<<"asdfghjklmn";
+    cout << "asdfghjklmn";
 
     return 0;
 }
