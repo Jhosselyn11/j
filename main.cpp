@@ -14,6 +14,8 @@ int main()
     cout << ":D";
     cout<<"asdfghjklmn";
      cout<<"asdfghjklmn";
+      cout<<"asdfghjklmn";
+     cout<<"asdfghjklmn";
 
     return 0;
 }
