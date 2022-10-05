@@ -5,7 +5,7 @@ int main()
 {
     // eres una perra
     cout << "Hola perra" << endl;
-    cout << "Hola perra" << endl;
+    cout << "Te quiero" << endl;
 
     return 0;
 }
