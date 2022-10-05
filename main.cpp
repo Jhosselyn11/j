@@ -8,7 +8,10 @@ int main()
     cout << "Te quiero" << endl;
     cout << "<3";
     cout << "<3 par cuan";
-    cout<<":D";
+    cout << ":D";
+    cout << "<3";
+    cout << "<3 par cuan";
+    cout << ":D";
 
     return 0;
 }
